@@ -1,0 +1,21 @@
+/* font */
+@font-face 
+{
+    font-family: Monsterrat-Bold;
+    src: url("bootstrap/fuentes/MONTSERRAT-BOLD.TTF") format('Truetype');
+}
+@font-face 
+{
+    font-family: Monsterrat-Light;
+    src: url("bootstrap/fuentes/MONTSERRAT-LIGHT.TTF") format('Truetype');
+}
+@font-face 
+{
+    font-family: Kgprimarypenmanship;
+    src: url("bootstrap/fuentes/KGPRIMARYPENMANSHIP.TTF") format('Truetype');
+}
+@font-face 
+{
+    font-family: FranklinGothicDemi;
+    src: url("bootstrap/fuentes/FRADMIT.TTF") format('Truetype');
+}

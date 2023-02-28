@@ -1,0 +1,2 @@
+$tipo = $_POST['tipo'];
+

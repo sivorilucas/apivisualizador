@@ -1,0 +1,69 @@
+
+body {
+
+    font-family: 'Muli', sans-serif;
+    font-weight: 300;
+
+}
+
+
+
+.seccion-hidden{
+    display: none!important;
+}
+
+
+
+
+.seccion-block{
+    display: block!important;
+}
+
+.btn-menu:hover {
+    text-decoration: underline red!important;  
+}
+
+ .fondo{
+    background: #111B54;
+
+ }
+
+.btn-primary {
+    background-color: var(--primary);
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color: var(--primary);
+}
+
+#sidebar-container {
+    min-height: 100vh;
+}
+  
+#sidebar-container .logo{
+    padding: 0.875rem 1rem;
+}
+  
+#sidebar-container .menu {
+    width: 5rem;
+}
+
+#content {
+    overflow-y: auto;
+    height: 100vh;
+    padding-bottom: 5rem;
+}
+
+.avatar {
+    max-width: 35px;
+}
+
+.btn-search {
+    right: 0;
+}
+
+.stat {
+    border-right: 1px solid var(--grey);
+}
+
